@@ -33,6 +33,6 @@ input{
     display: block;
 }
 
-button{
+input[type=submit]{
     margin-top:20px;
 }
